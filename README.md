@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @PabloTDEV
-- 👀 I’m interested in learn how to code on every language
 - 🌱 I’m currently learning JavaScript and JSON.
 - 💞️ I’m looking to collaborate on multiple projects and applications
 - 📫 How to reach me you can follow me on instagram @pablotc.torres
